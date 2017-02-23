@@ -1,0 +1,6 @@
+com/t42labs/server/serverfunctionalities/ServerFunctionalities.class
+com/t42labs/server/serverresponse/ServerResponse.class
+com/t42labs/server/tcpserver/TCPMultiServer.class
+com/t42labs/server/database/PostgreSQLJDBC.class
+com/t42labs/server/tcpserver/ServerThread.class
+com/t42labs/server/serverfunctionalities/ServerFunctionalitiesImpl.class
