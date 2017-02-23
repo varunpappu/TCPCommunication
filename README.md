@@ -94,7 +94,7 @@ Platform: Mac Os
 	Go to the TCPClient folder and run the following command:
 		mvn clean install
 		mvn compile
-		mvn exec:java -Dexec.mainClass="com.t42labs.client.tcpcleint.TCPClient" -Dexec.classpathScope=runtime 
+		mvn exec:java -Dexec.mainClass="com.t42labs.client.tcpclient.TCPClient" -Dexec.classpathScope=runtime 
 
 
 4) If everything has been setup correctly you should be able to see data being passed from client to server and data being 
